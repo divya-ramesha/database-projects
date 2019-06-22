@@ -1,0 +1,7 @@
+Sum = 1st year profit + 2nd year profit + ... + last year profit
+
+Average = (1st year profit + 2nd year profit + ... + last year profit) / number of years company operated
+
+Since the number of years the company operated isn't same for all companies we can't expect top 3 sum companies to be same as top 3 average companies. For example lets consider the topmost company both in sum(Exxon Mobile) and avg(Citigroup) view. 
+
+Exxon Mobile started in 1955 with 584 million as profit and ended in 2005 with 25330 million as profit. Total sum of profit is 242224 million dollars whereas average profit is 4749 million spanned over 51 years. Whereas on the other hand, Citigroup started in 1995 with 1326 million as profit and ended in 2005 with 17046 as profit. Total sum of profit is 102089 million dollars whereas average profit is 9280 million spanned over just 11 years. So, eventhough the numerator of Average is larger for Exxon Mobile compared to Citigroup, the denominator is much lesser for Citigroup which makes the Average larger for Citigroup.
